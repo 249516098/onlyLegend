@@ -1,2 +1,20 @@
-# onlyLegend
-![输入图片说明](https://images.gitee.com/uploads/images/2018/1114/111833_7b7c78f1_2295751.png "真假BOSS.png")
+### 安装说明
+
+1. 关闭360等杀软，不关闭360可能杀掉压缩包或传奇永恒登录器.exe
+2. 点击群文件，如果加载不出来，多试几次。下载这3个文件，点击后面的文件夹图标打开文件夹。
+![输入图片说明](https://images.gitee.com/uploads/images/2018/1114/112711_048ca98a_2295751.png "1.png")
+
+3. 双击【传奇永恒.zip.001】解压到自己想放的目录。(每个人电脑的解压软件不同打开后界面可能不同，双击001就解压002和003了，不需要单独解压002和003)
+![输入图片说明](https://images.gitee.com/uploads/images/2018/1114/112843_88e75637_2295751.png "2.png")
+4. 打开解压目录，双击【传奇永恒登录器.exe】。(如果没有【传奇永恒登录器.exe】群文件里单独下载这个文件)
+![输入图片说明](https://images.gitee.com/uploads/images/2018/1114/112913_8166bb16_2295751.png "3.png")
+5. 点击【启动游戏】
+![输入图片说明](https://images.gitee.com/uploads/images/2018/1114/112941_61592790_2295751.png "4.png")
+6. 灰色方框内输入用户、密码点击【LOGIN】。用户密码需自己私聊群管理给你新建
+![输入图片说明](https://images.gitee.com/uploads/images/2018/1114/113005_73df851f_2295751.jpeg "5.jpg")
+
+
+
+
+
+
